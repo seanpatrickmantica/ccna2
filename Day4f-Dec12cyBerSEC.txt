@@ -325,8 +325,8 @@ Top 5 UTM: 1.FortinetFortigate: syet
 
 Firewall Profile no.1: use ExtendedACL vs NamedExtendedAcl:
 ex.1: you are the Blue Team/SOC guys for pogo sites:
-ebet10.com open only http, https, ping:  80, 443, icmp
-ebet11.com open only dns, https, ssh     53, 443, 22 ==> 6 lines:
+bet10.ph open only http, https, ping:  80, 443, icmp
+bet11.ph open only dns, https, ssh     53, 443, 22 ==> 6 lines:
   GOLDEN  FIREWALL FORMULA:  paloalto,fortinet,cisco,checkpoint.
    protocol         hacker    victim       port
 tcp,udp,icmp,IP     Any      web310/11
@@ -1084,6 +1084,7 @@ https:///restconf/data/Cisco-IOS-XE-native:native/interface/Loopback
 
 HomeWork for the Hardest Day in CCNA: 
 CSr, linuxdocker, pythondocker, Postman: RestApi.
+
 
 
 
